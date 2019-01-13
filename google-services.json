@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "41880145128",
+    "firebase_url": "https://khaana-911.firebaseio.com",
+    "project_id": "khaana-911",
+    "storage_bucket": "khaana-911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41880145128:android:2367e1c39ece97b1",
+        "android_client_info": {
+          "package_name": "com.khaana.mad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41880145128-14aj7i9mchfaus73m6pkr8uniah0aj09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCog6Df7DunIGm-8RwwFuvw2lU_bzHV0c4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

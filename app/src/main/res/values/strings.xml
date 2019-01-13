@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Khaana</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="SIGNIN">SIGNIN</string>
+    <string name="Member">NOT A Member ?</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="Email">Email</string>
+    <string name="Pass">Password</string>
+    <string name="User">Username</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="FirstName">FirstName</string>
+    <string name="SecondName">SecondName</string>
+    <string name="NEXT">NEXT</string>
+    <string name="Address">Address</string>
+    <string name="City">City</string>
+    <string name="Zip">Zip</string>
+    <string name="Phone">Phone</string>
+    <string name="DONE">Done</string>
+    <string name="title_activity_menu">menuActivity</string>
+</resources>
